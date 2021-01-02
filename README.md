@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working at SIAT, CAS and studying at SYSU
-- 🌱 I’m currently learning mixture model
+- 🌱 I’m currently learning deep learning and computational statistics
 - 🤔 I’m looking for help with high-dimensional statistical inference
 - 💬 Ask me about machine learning or statistics
 - 📫 How to reach me: jiangwx7[at]outlook.com or jiangwx7[at]qq.com

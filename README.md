@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with high-dimensional statistical inference
 - 💬 Ask me about machine learning or statistics
 - 📫 How to reach me: jiangwx7[at]outlook.com or jiangwx7[at]qq.com
-- 😄 Welcome to visit my blog: lucajiang.github.io/
+- 😄 Welcome to visit my blog: (lucajiang.github.io/)[lucajiang.github.io/]
 - ⚡ Fun fact: My favourite game is minesweeper

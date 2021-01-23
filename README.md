@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jiangwx7[at]outlook.com or jiangwx7[at]qq.com
 - 😄 Welcome to visit my blog: [lucajiang.github.io/](https://lucajiang.github.io/)
 - ⚡ Fun fact: My favourite game is minesweeper
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucajiang)](https://github.com/anuraghazra/github-readme-stats)

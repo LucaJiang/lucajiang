@@ -12,9 +12,12 @@
 - 😄 Welcome to visit my blog: [lucajiang.github.io/](https://lucajiang.github.io/)
 - ⚡ Fun fact: My favourite game is minesweeper
 
-![JiangWX's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucajiang&theme=tokyonight&show_icons=true)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucajiang&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
+![JiangWX's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucajiang&theme=tokyonight&show_icons=true)
+ 
 <!--
 都是HTML T_T，博客占比太大了
 那就只好隐藏了嘿！

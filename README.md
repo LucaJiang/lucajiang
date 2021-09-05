@@ -4,7 +4,7 @@
 **LucaJiang/lucajiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working at SIAT, CAS and studying at SYSU
+- 🔭 I used to working at SIAT, CAS and studying at SYSU
 - 🌱 I’m currently learning deep learning and computational statistics
 - 🤔 I’m looking for help with high-dimensional statistical inference
 - 💬 Ask me about machine learning or mathematics

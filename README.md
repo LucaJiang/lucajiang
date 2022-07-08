@@ -14,7 +14,7 @@
 - ⚡ Fun fact: My favourite game is minesweeper
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucajiang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucajiang&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
  
  
 ![JiangWX's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucajiang&theme=tokyonight&show_icons=true)

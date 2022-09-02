@@ -4,7 +4,7 @@
 **LucaJiang/lucajiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 😁 I am going to study at HKUST next month
+- 😁 I am studying at HKUST
 - 🔭 I used to work at SIAT, CAS and graduated from Sun Yat-sen University
 - 🌱 I’m currently learning deep learning and computational statistics
 - 🤔 I’m looking for help with high-dimensional statistical inference

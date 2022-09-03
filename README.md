@@ -6,7 +6,7 @@
 
 - 😁 I am studying at HKUST
 - 🔭 I used to work at SIAT, CAS and graduated from Sun Yat-sen University
-- 🌱 I’m currently learning deep learning and computational statistics
+- 🌱 I’m currently learning reinforcement learning and causal inference
 - 🤔 I’m looking for help with high-dimensional statistical inference
 - 💬 Ask me about machine learning or mathematics
 - 📫 How to reach me: jiangwx7[at]outlook.com or jiangwx7[at]qq.com

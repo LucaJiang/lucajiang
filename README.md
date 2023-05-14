@@ -14,7 +14,7 @@
 - ⚡ Fun fact: My favourite game is  *The Witcher 3: Wild Hunt* and minesweeper
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucajiang&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucajiang&layout=compact&hide=css,html,tex)](https://github.com/anuraghazra/github-readme-stats)
  
  
 ![JiangWX's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucajiang&theme=tokyonight&show_icons=true)

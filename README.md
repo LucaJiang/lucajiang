@@ -4,14 +4,16 @@
 **LucaJiang/lucajiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 😁 I am studying at HKUST, MSc in data-driven modelling
-- 🔭 I used to work at SIAT, CAS and graduated from Sun Yat-sen University
-- 🌱 I’m currently learning reinforcement learning and causal inference
+- 😁 I will start my PhD in Biostatistics at the City University of Hong Kong
+- 🌱 Undergraduate degree in Statistics from Sun Yat-sen University
+- 🔭 Master's degree in Data Driven Modelling from the Hong Kong University of Science and Technology
 - 🤔 I’m looking for help with high-dimensional statistical inference
 - 💬 Ask me about machine learning or mathematics
 - 📫 How to reach me: jiangwx7[at]outlook.com or jiangwx7[at]qq.com
 - 😄 Welcome to visit my blog: [lucajiang.github.io/](https://lucajiang.github.io/)
 - ⚡ Fun fact: My favourite game is  *The Witcher 3: Wild Hunt* and minesweeper
+
+If you are interested in my research and experience, please feel free to contact me.
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucajiang&layout=compact&hide=css,html,tex)](https://github.com/anuraghazra/github-readme-stats)

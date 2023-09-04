@@ -4,9 +4,9 @@
 **LucaJiang/lucajiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 😁 I will start my PhD in Biostatistics at the City University of Hong Kong
-- 🌱 Undergraduate degree in Statistics from Sun Yat-sen University
-- 🔭 Master's degree in Data Driven Modelling from the Hong Kong University of Science and Technology
+- 😁 I am a PhD student in Biostatistics from the City University of Hong Kong
+- 🌱 Undergraduate degree in Statistics from Sun Yat-sen University (SYSU)
+- 🔭 Master's degree in Data-Driven Modelling from the Hong Kong University of Science and Technology (HKUST)
 - 🤔 I’m looking for help with high-dimensional statistical inference
 - 💬 Ask me about machine learning or mathematics
 - 📫 How to reach me: jiangwx7[at]outlook.com or jiangwx7[at]qq.com

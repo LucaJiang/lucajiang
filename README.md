@@ -11,7 +11,7 @@
 - 💬 Ask me about programming (not math)
 - 📫 How to reach me: jiangwx7[at]outlook.com or jiangwx7[at]qq.com
 - 😄 Welcome to visit my blog: [lucajiang.github.io/](https://lucajiang.github.io/)
-- ⚡ Fun fact: My favourite game is  *The Witcher 3: Wild Hunt*
+- ⚡ Fun fact: My favourite game is  *Black Myth: Wukong*
 
 If you are interested in my research and experience, please feel free to contact me.
 
